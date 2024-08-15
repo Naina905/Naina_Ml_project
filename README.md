@@ -28,6 +28,4 @@ Input variables (based on physicochemical tests):
 
 11 - alcohol
 
-Output variable (based on sensory data):
-
 12 - quality
